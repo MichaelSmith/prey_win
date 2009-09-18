@@ -117,266 +117,149 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;lbClave.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="lbCorreoElectronico.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="gbEnvioInformacion.Size" type="System.Drawing.Size, System.Drawing">
-    <value>400, 125</value>
-  </data>
-  <data name="lbCorreoElectronico.Text" xml:space="preserve">
-    <value>&amp;Correo electrónico</value>
-  </data>
-  <data name="tbURLActivacion.Text" xml:space="preserve">
-    <value>http://</value>
-  </data>
-  <data name="lbMonitoreo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 43</value>
-  </data>
-  <data name="tbClave.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;lbServSMTP.Name" xml:space="preserve">
-    <value>lbServSMTP</value>
-  </data>
-  <data name="&gt;&gt;btnActivar.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;lbMonitoreo.Parent" xml:space="preserve">
-    <value>gbActivacion</value>
-  </data>
-  <data name="&gt;&gt;tbURLActivacion.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="nudMonitoreo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 21</value>
-  </data>
-  <data name="&gt;&gt;gbActivacion.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lbCorreoElectronico.Name" xml:space="preserve">
-    <value>lbCorreoElectronico</value>
-  </data>
-  <data name="gbEnvioInformacion.Text" xml:space="preserve">
-    <value>Envío de información</value>
-  </data>
-  <data name="&gt;&gt;lbMonitoreo.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tbClave.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="gbEnvioInformacion.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Left, Right</value>
-  </data>
-  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;lbUsuario.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;gbEnvioInformacion.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lbUsuario.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;gbActivacion.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;tbPuertoSMTP.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;tbCorreoElectronico.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tbURLActivacion.Size" type="System.Drawing.Size, System.Drawing">
-    <value>328, 21</value>
-  </data>
-  <data name="tbClave.Location" type="System.Drawing.Point, System.Drawing">
-    <value>107, 95</value>
-  </data>
-  <data name="lbClave.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="tbCorreoElectronico.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Left, Right</value>
-  </data>
-  <data name="&gt;&gt;gbActivacion.Name" xml:space="preserve">
-    <value>gbActivacion</value>
-  </data>
-  <data name="lbUsuario.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="tbPuertoSMTP.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 21</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnActivar.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="cbActivarPrey.Location" type="System.Drawing.Point, System.Drawing">
-    <value>66, 68</value>
-  </data>
-  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 43</value>
-  </data>
-  <data name="lbServSMTP.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;lbURL.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="tbURLActivacion.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Left, Right</value>
-  </data>
-  <data name="&gt;&gt;tbClave.Parent" xml:space="preserve">
-    <value>gbEnvioInformacion</value>
-  </data>
-  <data name="&gt;&gt;tbPuertoSMTP.Parent" xml:space="preserve">
-    <value>gbEnvioInformacion</value>
-  </data>
   <data name="gbActivacion.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left, Right</value>
   </data>
-  <data name="&gt;&gt;lbURL.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Form1</value>
-  </data>
-  <data name="cbActivarPrey.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 43</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>44, 13</value>
   </data>
-  <data name="lbUsuario.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 71</value>
-  </data>
-  <data name="&gt;&gt;tbServSMTP.ZOrder" xml:space="preserve">
-    <value>7</value>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
     <value>Minutos</value>
   </data>
-  <data name="&gt;&gt;tbURLActivacion.Name" xml:space="preserve">
-    <value>tbURLActivacion</value>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
   </data>
-  <data name="&gt;&gt;lbClave.Parent" xml:space="preserve">
-    <value>gbEnvioInformacion</value>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="cbActivarPrey.Text" xml:space="preserve">
-    <value>&amp;Activar Prey</value>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>gbActivacion</value>
   </data>
-  <data name="tbClave.Size" type="System.Drawing.Size, System.Drawing">
-    <value>287, 21</value>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
+  <data name="nudMonitoreo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>66, 41</value>
   </data>
-  <data name="cbSSL.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="nudMonitoreo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 21</value>
   </data>
-  <data name="&gt;&gt;lbUsuario.Parent" xml:space="preserve">
-    <value>gbEnvioInformacion</value>
-  </data>
-  <data name="&gt;&gt;tbURLActivacion.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lbClave.ZOrder" xml:space="preserve">
+  <data name="nudMonitoreo.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="&gt;&gt;nudMonitoreo.Name" xml:space="preserve">
     <value>nudMonitoreo</value>
   </data>
-  <data name="&gt;&gt;lbCorreoElectronico.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;nudMonitoreo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tbPuertoSMTP.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tbUsuario.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;tbUsuario.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;nudMonitoreo.Parent" xml:space="preserve">
+    <value>gbActivacion</value>
   </data>
   <data name="&gt;&gt;nudMonitoreo.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;tbCorreoElectronico.ZOrder" xml:space="preserve">
-    <value>9</value>
+  <data name="lbMonitoreo.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <data name="lbClave.Text" xml:space="preserve">
-    <value>C&amp;ontraseña</value>
+  <data name="lbMonitoreo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 43</value>
   </data>
-  <data name="&gt;&gt;gbActivacion.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="lbMonitoreo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>55, 13</value>
   </data>
-  <data name="lbClave.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 98</value>
-  </data>
-  <data name="btnActivar.Text" xml:space="preserve">
-    <value>&amp;Guardar</value>
-  </data>
-  <data name="&gt;&gt;gbEnvioInformacion.Name" xml:space="preserve">
-    <value>gbEnvioInformacion</value>
-  </data>
-  <data name="&gt;&gt;tbServSMTP.Name" xml:space="preserve">
-    <value>tbServSMTP</value>
+  <data name="lbMonitoreo.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
   </data>
   <data name="lbMonitoreo.Text" xml:space="preserve">
     <value>&amp;Monitoreo</value>
   </data>
-  <data name="label2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Right</value>
+  <data name="&gt;&gt;lbMonitoreo.Name" xml:space="preserve">
+    <value>lbMonitoreo</value>
   </data>
-  <data name="gbActivacion.Size" type="System.Drawing.Size, System.Drawing">
-    <value>400, 92</value>
+  <data name="&gt;&gt;lbMonitoreo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+  <data name="&gt;&gt;lbMonitoreo.Parent" xml:space="preserve">
     <value>gbActivacion</value>
   </data>
-  <data name="label2.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
+  <data name="&gt;&gt;lbMonitoreo.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="cbActivarPrey.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="cbActivarPrey.Location" type="System.Drawing.Point, System.Drawing">
+    <value>66, 68</value>
   </data>
   <data name="cbActivarPrey.Size" type="System.Drawing.Size, System.Drawing">
     <value>85, 17</value>
   </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="cbActivarPrey.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
   </data>
-  <data name="cbSSL.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 17</value>
+  <data name="cbActivarPrey.Text" xml:space="preserve">
+    <value>&amp;Activar Prey</value>
   </data>
-  <data name="&gt;&gt;cbSSL.Type" xml:space="preserve">
+  <data name="&gt;&gt;cbActivarPrey.Name" xml:space="preserve">
+    <value>cbActivarPrey</value>
+  </data>
+  <data name="&gt;&gt;cbActivarPrey.Type" xml:space="preserve">
     <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="label1.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
+  <data name="&gt;&gt;cbActivarPrey.Parent" xml:space="preserve">
+    <value>gbActivacion</value>
   </data>
   <data name="&gt;&gt;cbActivarPrey.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="nudMonitoreo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>66, 41</value>
+  <data name="tbURLActivacion.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
   </data>
-  <data name="tbCorreoElectronico.Location" type="System.Drawing.Point, System.Drawing">
-    <value>107, 14</value>
+  <data name="tbURLActivacion.Location" type="System.Drawing.Point, System.Drawing">
+    <value>66, 14</value>
+  </data>
+  <data name="tbURLActivacion.Size" type="System.Drawing.Size, System.Drawing">
+    <value>328, 21</value>
+  </data>
+  <data name="tbURLActivacion.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tbURLActivacion.Text" xml:space="preserve">
+    <value>http://</value>
+  </data>
+  <data name="&gt;&gt;tbURLActivacion.Name" xml:space="preserve">
+    <value>tbURLActivacion</value>
+  </data>
+  <data name="&gt;&gt;tbURLActivacion.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbURLActivacion.Parent" xml:space="preserve">
+    <value>gbActivacion</value>
+  </data>
+  <data name="&gt;&gt;tbURLActivacion.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lbURL.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbURL.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 17</value>
+  </data>
+  <data name="lbURL.Size" type="System.Drawing.Size, System.Drawing">
+    <value>26, 13</value>
   </data>
   <data name="lbURL.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -384,32 +267,398 @@
   <data name="lbURL.Text" xml:space="preserve">
     <value>&amp;URL</value>
   </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;lbURL.Name" xml:space="preserve">
+    <value>lbURL</value>
+  </data>
+  <data name="&gt;&gt;lbURL.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbURL.Parent" xml:space="preserve">
+    <value>gbActivacion</value>
+  </data>
+  <data name="&gt;&gt;lbURL.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="gbActivacion.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="gbActivacion.Size" type="System.Drawing.Size, System.Drawing">
+    <value>400, 92</value>
+  </data>
+  <data name="gbActivacion.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="lbURL.Size" type="System.Drawing.Size, System.Drawing">
-    <value>26, 13</value>
+  <data name="gbActivacion.Text" xml:space="preserve">
+    <value>Activación</value>
+  </data>
+  <data name="&gt;&gt;gbActivacion.Name" xml:space="preserve">
+    <value>gbActivacion</value>
+  </data>
+  <data name="&gt;&gt;gbActivacion.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gbActivacion.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gbActivacion.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="gbEnvioInformacion.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="cbSSL.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="cbSSL.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="cbSSL.Location" type="System.Drawing.Point, System.Drawing">
+    <value>351, 43</value>
+  </data>
+  <data name="cbSSL.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 17</value>
+  </data>
+  <data name="cbSSL.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="cbSSL.Text" xml:space="preserve">
+    <value>SSL</value>
+  </data>
+  <data name="&gt;&gt;cbSSL.Name" xml:space="preserve">
+    <value>cbSSL</value>
+  </data>
+  <data name="&gt;&gt;cbSSL.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbSSL.Parent" xml:space="preserve">
+    <value>gbEnvioInformacion</value>
+  </data>
+  <data name="&gt;&gt;cbSSL.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tbPuertoSMTP.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="tbPuertoSMTP.Location" type="System.Drawing.Point, System.Drawing">
+    <value>300, 41</value>
+  </data>
+  <data name="tbPuertoSMTP.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 21</value>
+  </data>
+  <data name="tbPuertoSMTP.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;tbPuertoSMTP.Name" xml:space="preserve">
+    <value>tbPuertoSMTP</value>
+  </data>
+  <data name="&gt;&gt;tbPuertoSMTP.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbPuertoSMTP.Parent" xml:space="preserve">
+    <value>gbEnvioInformacion</value>
+  </data>
+  <data name="&gt;&gt;tbPuertoSMTP.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>255, 44</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>39, 13</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>&amp;Puerto</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>gbEnvioInformacion</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tbClave.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="tbClave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>107, 95</value>
+  </data>
+  <data name="tbClave.PasswordChar" type="System.Char, mscorlib" xml:space="preserve">
+    <value>•</value>
+  </data>
+  <data name="tbClave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 21</value>
+  </data>
+  <data name="tbClave.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;tbClave.Name" xml:space="preserve">
+    <value>tbClave</value>
+  </data>
+  <data name="&gt;&gt;tbClave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbClave.Parent" xml:space="preserve">
+    <value>gbEnvioInformacion</value>
+  </data>
+  <data name="&gt;&gt;tbClave.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lbClave.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbClave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 98</value>
+  </data>
+  <data name="lbClave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 13</value>
+  </data>
+  <data name="lbClave.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="lbClave.Text" xml:space="preserve">
+    <value>C&amp;ontraseña</value>
   </data>
   <data name="&gt;&gt;lbClave.Name" xml:space="preserve">
     <value>lbClave</value>
   </data>
-  <data name="btnActivar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+  <data name="&gt;&gt;lbClave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="lbMonitoreo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>55, 13</value>
+  <data name="&gt;&gt;lbClave.Parent" xml:space="preserve">
+    <value>gbEnvioInformacion</value>
   </data>
-  <data name="&gt;&gt;lbServSMTP.ZOrder" xml:space="preserve">
-    <value>8</value>
+  <data name="&gt;&gt;lbClave.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="tbUsuario.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="tbUsuario.Location" type="System.Drawing.Point, System.Drawing">
+    <value>107, 68</value>
+  </data>
+  <data name="tbUsuario.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 21</value>
+  </data>
+  <data name="tbUsuario.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;tbUsuario.Name" xml:space="preserve">
+    <value>tbUsuario</value>
+  </data>
+  <data name="&gt;&gt;tbUsuario.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbUsuario.Parent" xml:space="preserve">
+    <value>gbEnvioInformacion</value>
+  </data>
+  <data name="&gt;&gt;tbUsuario.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lbUsuario.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbUsuario.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 71</value>
   </data>
   <data name="lbUsuario.Size" type="System.Drawing.Size, System.Drawing">
     <value>43, 13</value>
   </data>
+  <data name="lbUsuario.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lbUsuario.Text" xml:space="preserve">
+    <value>Usua&amp;rio</value>
+  </data>
+  <data name="&gt;&gt;lbUsuario.Name" xml:space="preserve">
+    <value>lbUsuario</value>
+  </data>
+  <data name="&gt;&gt;lbUsuario.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbUsuario.Parent" xml:space="preserve">
+    <value>gbEnvioInformacion</value>
+  </data>
+  <data name="&gt;&gt;lbUsuario.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="tbServSMTP.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="tbServSMTP.Location" type="System.Drawing.Point, System.Drawing">
+    <value>107, 41</value>
+  </data>
+  <data name="tbServSMTP.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 21</value>
+  </data>
+  <data name="tbServSMTP.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tbServSMTP.Name" xml:space="preserve">
+    <value>tbServSMTP</value>
+  </data>
+  <data name="&gt;&gt;tbServSMTP.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbServSMTP.Parent" xml:space="preserve">
+    <value>gbEnvioInformacion</value>
+  </data>
+  <data name="&gt;&gt;tbServSMTP.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lbServSMTP.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbServSMTP.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 44</value>
+  </data>
+  <data name="lbServSMTP.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 13</value>
+  </data>
+  <data name="lbServSMTP.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lbServSMTP.Text" xml:space="preserve">
+    <value>&amp;Servidor SMTP</value>
+  </data>
+  <data name="&gt;&gt;lbServSMTP.Name" xml:space="preserve">
+    <value>lbServSMTP</value>
+  </data>
+  <data name="&gt;&gt;lbServSMTP.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="&gt;&gt;lbServSMTP.Parent" xml:space="preserve">
     <value>gbEnvioInformacion</value>
   </data>
-  <data name="&gt;&gt;tbPuertoSMTP.Name" xml:space="preserve">
-    <value>tbPuertoSMTP</value>
+  <data name="&gt;&gt;lbServSMTP.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="tbCorreoElectronico.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="tbCorreoElectronico.Location" type="System.Drawing.Point, System.Drawing">
+    <value>107, 14</value>
+  </data>
+  <data name="tbCorreoElectronico.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 21</value>
+  </data>
+  <data name="tbCorreoElectronico.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tbCorreoElectronico.Name" xml:space="preserve">
+    <value>tbCorreoElectronico</value>
+  </data>
+  <data name="&gt;&gt;tbCorreoElectronico.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbCorreoElectronico.Parent" xml:space="preserve">
+    <value>gbEnvioInformacion</value>
+  </data>
+  <data name="&gt;&gt;tbCorreoElectronico.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="lbCorreoElectronico.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbCorreoElectronico.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 17</value>
+  </data>
+  <data name="lbCorreoElectronico.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 13</value>
+  </data>
+  <data name="lbCorreoElectronico.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lbCorreoElectronico.Text" xml:space="preserve">
+    <value>&amp;Correo electrónico</value>
+  </data>
+  <data name="&gt;&gt;lbCorreoElectronico.Name" xml:space="preserve">
+    <value>lbCorreoElectronico</value>
+  </data>
+  <data name="&gt;&gt;lbCorreoElectronico.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbCorreoElectronico.Parent" xml:space="preserve">
+    <value>gbEnvioInformacion</value>
+  </data>
+  <data name="&gt;&gt;lbCorreoElectronico.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="gbEnvioInformacion.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 110</value>
+  </data>
+  <data name="gbEnvioInformacion.Size" type="System.Drawing.Size, System.Drawing">
+    <value>400, 125</value>
+  </data>
+  <data name="gbEnvioInformacion.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="gbEnvioInformacion.Text" xml:space="preserve">
+    <value>Envío de información</value>
+  </data>
+  <data name="&gt;&gt;gbEnvioInformacion.Name" xml:space="preserve">
+    <value>gbEnvioInformacion</value>
+  </data>
+  <data name="&gt;&gt;gbEnvioInformacion.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gbEnvioInformacion.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gbEnvioInformacion.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnActivar.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnActivar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>337, 241</value>
+  </data>
+  <data name="btnActivar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btnActivar.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnActivar.Text" xml:space="preserve">
+    <value>&amp;Guardar</value>
+  </data>
+  <data name="&gt;&gt;btnActivar.Name" xml:space="preserve">
+    <value>btnActivar</value>
+  </data>
+  <data name="&gt;&gt;btnActivar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnActivar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnActivar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>424, 276</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 8.25pt</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -8278,268 +8527,16 @@
         ///////////////wAAA=
 </value>
   </data>
-  <data name="lbURL.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;tbUsuario.Parent" xml:space="preserve">
-    <value>gbEnvioInformacion</value>
-  </data>
-  <data name="gbActivacion.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 12</value>
-  </data>
-  <data name="tbServSMTP.Location" type="System.Drawing.Point, System.Drawing">
-    <value>107, 41</value>
-  </data>
-  <data name="lbCorreoElectronico.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 17</value>
-  </data>
-  <data name="lbCorreoElectronico.Size" type="System.Drawing.Size, System.Drawing">
-    <value>95, 13</value>
-  </data>
-  <data name="&gt;&gt;lbURL.Parent" xml:space="preserve">
-    <value>gbActivacion</value>
-  </data>
-  <data name="tbClave.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Left, Right</value>
-  </data>
-  <data name="&gt;&gt;lbURL.Name" xml:space="preserve">
-    <value>lbURL</value>
-  </data>
-  <data name="cbSSL.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="gbEnvioInformacion.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 110</value>
-  </data>
-  <data name="&gt;&gt;label2.Name" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;cbActivarPrey.Parent" xml:space="preserve">
-    <value>gbActivacion</value>
-  </data>
-  <data name="&gt;&gt;lbServSMTP.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tbClave.PasswordChar" type="System.Char, mscorlib" xml:space="preserve">
-    <value>•</value>
-  </data>
-  <data name="tbPuertoSMTP.Location" type="System.Drawing.Point, System.Drawing">
-    <value>300, 41</value>
-  </data>
-  <data name="&gt;&gt;cbSSL.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="tbCorreoElectronico.Size" type="System.Drawing.Size, System.Drawing">
-    <value>287, 21</value>
-  </data>
-  <data name="&gt;&gt;tbServSMTP.Parent" xml:space="preserve">
-    <value>gbEnvioInformacion</value>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>430, 300</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Prey - Utilidad de configuración</value>
   </data>
-  <data name="&gt;&gt;lbMonitoreo.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
   </data>
-  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>39, 13</value>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="lbCorreoElectronico.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="btnActivar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>337, 241</value>
-  </data>
-  <data name="lbServSMTP.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 44</value>
-  </data>
-  <data name="cbSSL.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Right</value>
-  </data>
-  <data name="tbServSMTP.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Left, Right</value>
-  </data>
-  <data name="lbMonitoreo.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;cbSSL.Name" xml:space="preserve">
-    <value>cbSSL</value>
-  </data>
-  <data name="&gt;&gt;btnActivar.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="cbSSL.Location" type="System.Drawing.Point, System.Drawing">
-    <value>351, 43</value>
-  </data>
-  <data name="tbURLActivacion.Location" type="System.Drawing.Point, System.Drawing">
-    <value>66, 14</value>
-  </data>
-  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 8.25pt</value>
-  </data>
-  <data name="cbActivarPrey.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label2.Text" xml:space="preserve">
-    <value>&amp;Puerto</value>
-  </data>
-  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>255, 44</value>
-  </data>
-  <data name="tbUsuario.Location" type="System.Drawing.Point, System.Drawing">
-    <value>107, 68</value>
-  </data>
-  <data name="lbServSMTP.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 13</value>
-  </data>
-  <data name="nudMonitoreo.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="lbServSMTP.Text" xml:space="preserve">
-    <value>&amp;Servidor SMTP</value>
-  </data>
-  <data name="&gt;&gt;cbActivarPrey.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;cbActivarPrey.Name" xml:space="preserve">
-    <value>cbActivarPrey</value>
-  </data>
-  <data name="lbUsuario.Text" xml:space="preserve">
-    <value>Usua&amp;rio</value>
-  </data>
-  <data name="cbSSL.Text" xml:space="preserve">
-    <value>SSL</value>
-  </data>
-  <data name="&gt;&gt;lbMonitoreo.Name" xml:space="preserve">
-    <value>lbMonitoreo</value>
-  </data>
-  <data name="&gt;&gt;gbEnvioInformacion.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="lbUsuario.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;btnActivar.Name" xml:space="preserve">
-    <value>btnActivar</value>
-  </data>
-  <data name="&gt;&gt;tbClave.Name" xml:space="preserve">
-    <value>tbClave</value>
-  </data>
-  <data name="&gt;&gt;tbURLActivacion.Parent" xml:space="preserve">
-    <value>gbActivacion</value>
-  </data>
-  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="tbURLActivacion.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;tbCorreoElectronico.Name" xml:space="preserve">
-    <value>tbCorreoElectronico</value>
-  </data>
-  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>430, 300</value>
-  </data>
-  <data name="&gt;&gt;tbServSMTP.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="gbActivacion.Text" xml:space="preserve">
-    <value>Activación</value>
-  </data>
-  <data name="&gt;&gt;btnActivar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="gbEnvioInformacion.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="tbPuertoSMTP.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Right</value>
-  </data>
-  <data name="lbURL.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 17</value>
-  </data>
-  <data name="gbActivacion.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;nudMonitoreo.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;nudMonitoreo.Parent" xml:space="preserve">
-    <value>gbActivacion</value>
-  </data>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>gbEnvioInformacion</value>
-  </data>
-  <data name="btnActivar.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Right</value>
-  </data>
-  <data name="lbMonitoreo.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;gbEnvioInformacion.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>424, 276</value>
-  </data>
-  <data name="lbServSMTP.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;lbUsuario.Name" xml:space="preserve">
-    <value>lbUsuario</value>
-  </data>
-  <data name="tbServSMTP.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="tbCorreoElectronico.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;tbUsuario.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="lbClave.Size" type="System.Drawing.Size, System.Drawing">
-    <value>63, 13</value>
-  </data>
-  <data name="&gt;&gt;lbCorreoElectronico.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;tbCorreoElectronico.Parent" xml:space="preserve">
-    <value>gbEnvioInformacion</value>
-  </data>
-  <data name="tbUsuario.Size" type="System.Drawing.Size, System.Drawing">
-    <value>287, 21</value>
-  </data>
-  <data name="&gt;&gt;tbUsuario.Name" xml:space="preserve">
-    <value>tbUsuario</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="&gt;&gt;lbCorreoElectronico.Parent" xml:space="preserve">
-    <value>gbEnvioInformacion</value>
-  </data>
-  <data name="tbUsuario.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Left, Right</value>
-  </data>
-  <data name="&gt;&gt;tbClave.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tbServSMTP.Size" type="System.Drawing.Size, System.Drawing">
-    <value>142, 21</value>
-  </data>
-  <data name="tbPuertoSMTP.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;cbSSL.Parent" xml:space="preserve">
-    <value>gbEnvioInformacion</value>
-  </data>
-  <data name="lbClave.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>English</value>
-  </metadata>
 </root>

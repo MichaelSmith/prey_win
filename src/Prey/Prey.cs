@@ -128,13 +128,16 @@ namespace Prey
             }
             catch
             {
+                //The wireless adapters seem not to be available
                 throw new WlanNoDisponibleException("Los adaptadores inalámbricos parecen no estar disponibles");
             }
+            //Interfaces of network wireless" , " Interfaces
             log.AsociarSubtituloSeccion(new SubTituloLog("Interfaces de red wireless", "Interfaces"));
             uint contador = 1;
             uint contador2 = 1;
             string identificadorInterfaz;
             // Obtención de interfaces.
+            //Obtaining of interfaces.
             foreach (WlanClient.WlanInterface interfaz in clienteWifi.Interfaces)
             {
                 identificadorInterfaz = String.Format("IDI{0}", contador);
@@ -147,32 +150,38 @@ namespace Prey
                 {
                     log.AgregarEntrada(new EntradaLog(
                         identificadorInterfaz,
+                        //Name
                         String.Format("Red {0} -> Nombre", contador2.ToString()),
                         Encoding.ASCII.GetString(redDisponible.dot11Ssid.SSID)
                     ));
                     log.AgregarEntrada(new EntradaLog(
                         identificadorInterfaz,
+                        //Coding
                         String.Format("Red {0} -> Cifrado", contador2.ToString()),
                         redDisponible.dot11DefaultCipherAlgorithm.ToString()
                     ));
                     log.AgregarEntrada(new EntradaLog(
                         identificadorInterfaz,
+                        //Authenucation
                         String.Format("Red {0} -> Autenticación", contador2.ToString()),
                         redDisponible.dot11DefaultAuthAlgorithm.ToString()
                     ));
                     log.AgregarEntrada(new EntradaLog(
                         identificadorInterfaz,
+                        //Intensity of signal
                         String.Format("Red {0} -> Intensidad de señal", contador2.ToString()),
                         redDisponible.wlanSignalQuality.ToString()
                     ));
                     log.AgregarEntrada(new EntradaLog(
                         identificadorInterfaz,
+                        //It can be connected
                         String.Format("Red {0} -> ¿Puede conectarse?", contador2.ToString()),
                         (redDisponible.networkConnectable) ? "Si" : "No"
                     ));
                     if (!redDisponible.networkConnectable)
                         log.AgregarEntrada(new EntradaLog(
                             identificadorInterfaz,
+                            //Connectionless
                             String.Format("Red {0} -> Sin conexión", contador2.ToString()),
                             redDisponible.wlanNotConnectableReason.ToString()
                         ));
@@ -180,6 +189,7 @@ namespace Prey
                 }
                 contador++;
             }
+            //Information of the radio network
             return log.ObtenerLogEnFormato("Información de la red inalámbrica");
         }
         /// <summary>
@@ -190,6 +200,7 @@ namespace Prey
         {
             Log log = new Log();
             Process[] procesos = Process.GetProcesses();
+            //Active processes,  Processes
             log.AsociarSubtituloSeccion(new SubTituloLog("Procesos activos", "Procesos"));
             uint contador = 1;
             foreach (Process proceso in procesos)
@@ -197,6 +208,7 @@ namespace Prey
                 log.AgregarEntrada(new EntradaLog("Procesos", String.Format("{0} {1}", contador, proceso.ProcessName), proceso.MainWindowTitle));
                 contador++;
             }
+            //Active tasks of the equipment
             return log.ObtenerLogEnFormato("Tareas activas del equipo");
         }
         /// <summary>
@@ -206,6 +218,7 @@ namespace Prey
         static public string ObtenerInformacionSistema()
         {
             Log log = new Log();
+            //General Information
             log.AsociarSubtituloSeccion(new SubTituloLog("Información general", "general"));
             TiempoEncendidoSistema tiempoEncendido = new TiempoEncendidoSistema();
             log.AgregarEntrada(new EntradaLog(

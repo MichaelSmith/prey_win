@@ -123,14 +123,23 @@ namespace Prey
         /// <summary>
         /// Crea un nuevo perfil de configuración para Prey y PreyAgent.
         /// </summary>
+        /// URL for the activation of Prey.
         /// <param name="URLActivacion">URL para la activación de Prey.</param>
+        /// Interval in minutes for the monitoring of Prey
         /// <param name="IntervaloMonitoreo">Intervalo en minutos para el monitoreo de Prey.</param>
+        /// Route to the feasible one in the machine of Prey
         /// <param name="RutaPreyAgent">Ruta al ejecutable en la máquina de Prey.</param>
+        /// Electronic mail to which they will be sent losd atos of Prey.
         /// <param name="CorreoElectronico">Correo electrónico al que se enviarán losd atos de Prey.</param>
+        /// Server smtp from where the mail will be sent.
         /// <param name="ServidorSMTP">Servidor SMTP desde donde se enviarán los correos.</param>
+        /// User for authentication smtp.
         /// <param name="UsuarioSMTP">Usuario para la autenticación SMTP.</param>
+        /// Password for authentication smtp.
         /// <param name="ClaveSMTP">Contraseña para la autenticación SMTP.</param>
+        /// determines if the server is SSL.
         /// <param name="EsSSL">Determina si el servidor es SSL.</param>
+        /// Determian the connection port.
         /// <param name="PuertoSMTP">Determian el puerto de conexión.</param>
         public Configuracion(string URLActivacion, int IntervaloMonitoreo, string RutaPreyAgent, string CorreoElectronico, string ServidorSMTP, string UsuarioSMTP, string ClaveSMTP, int PuertoSMTP,bool EsSSL)
         {

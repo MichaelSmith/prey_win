@@ -78,5 +78,15 @@ namespace Prey
         {
 
         }
+
+        private void btnActivar_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cbActivarPrey_CheckedChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
